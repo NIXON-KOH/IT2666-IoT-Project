@@ -1,8 +1,10 @@
 # IT2666 IoT Project – Smart Bin System
 
-## Overview
+## Overview 
+
 An IoT-based smart bin system designed to monitor waste fill levels and improve waste management efficiency.
 This project is no longer maintained or supported. 
+
 ---
 
 ## Description  
