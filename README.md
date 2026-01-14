@@ -1,8 +1,8 @@
 # IT2666 IoT Project – Smart Bin System
 
-## Simple Overview of Use / Purpose  
+## Overview
 An IoT-based smart bin system designed to monitor waste fill levels and improve waste management efficiency.
-
+This project is no longer maintained or supported. 
 ---
 
 ## Description  
@@ -10,24 +10,35 @@ The Smart Bin System is an Internet of Things (IoT) project developed for the IT
 
 ---
 
-## Getting Started
+## Authors  
 
-### Dependencies  
+- Nixon Koh
+  GitHub: https://github.com/NIXON-KOH
+  
+- Kirsty Chan
+  GitHub: https://github.com/Theresa-Rice
+
+- Leonard Tan
+  GitHub: https://github.com/L30NonCracc
+
+- Gareth Lin
+  GitHub: https://github.com/gareth132
+---
+
+### Tech Stack
 - Windows 10 or later  
 - Grove Pi
 - Raspberry Pi
 - Visual Studio (for Windows Forms application)  
-- USB drivers for microcontroller  
-- Required hardware components (see Hardware.zip)
 
 ---
 
-### Installing  
+### Installation
 
 1. Download or clone the repository from  
    [IT2666 IoT Project Repository](https://github.com/NIXON-KOH/IT2666-IoT-Project)
 
-2. Extract `Hardware.zip` to access wiring diagrams and hardware information.
+2. Extract `Hardware.zip` to access wiring diagrams and hardware script.
 
 3. Open the firmware.
 
@@ -45,27 +56,4 @@ The Smart Bin System is an Internet of Things (IoT) project developed for the IT
 4. Run the Windows Forms application from Visual Studio.  
 5. Observe sensor readings and bin status updates.
 
----
 
-## Help  
-
-### Common Problems  
-- Ensure the correct COM port is selected.  
-- Check that all sensor wires are securely connected.  
-- Confirm that required drivers are installed.  
-
----
-
-## Authors  
-
-- Nixon Koh
-  GitHub: https://github.com/NIXON-KOH
-  
-- Kirsty Chan
-  GitHub: https://github.com/Theresa-Rice
-
-- Leonard Tan
-  GitHub: https://github.com/L30NonCracc
-
-- Gareth Lin
-  GitHub: https://github.com/gareth132
