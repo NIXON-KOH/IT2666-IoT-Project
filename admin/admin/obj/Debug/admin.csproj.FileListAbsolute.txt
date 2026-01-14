@@ -1,0 +1,229 @@
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\bin\Debug\admin.exe.config
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.LoginForm.resources
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.Properties.Resources.resources
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\bin\Debug\Database1.mdf
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\bin\Debug\Database1_log.ldf
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\bin\Debug\admin.exe
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\bin\Debug\admin.pdb
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.exe
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.pdb
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.MainForm.resources
+c:\users\yixia\documents\visual studio 2015\Projects\admin\admin\obj\Debug\admin.Form1.resources
+C:\Users\yixia\Documents\Visual Studio 2015\Projects\admin\admin\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\yixia\Documents\Visual Studio 2015\Projects\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\yixia\Documents\Visual Studio 2015\Projects\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\yixia\Documents\Visual Studio 2015\Projects\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\yixia\Documents\Visual Studio 2015\Projects\admin\admin\bin\Debug\Database2.mdf
+C:\Users\yixia\Documents\Visual Studio 2015\Projects\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\ASUS\Desktop\admin\admin\admin\bin\Debug\admin.exe.config
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.exe
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.pdb
+C:\Users\ASUS\Desktop\admin\admin\admin\bin\Debug\Database2.mdf
+C:\Users\ASUS\Desktop\admin\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.Form1.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\admin\admin\admin\bin\Debug\admin.exe
+C:\Users\ASUS\Desktop\admin\admin\admin\bin\Debug\admin.pdb
+C:\Users\ASUS\Desktop\admin\admin\admin\bin\Debug\CommsUtil.dll
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\bin\Debug\admin.exe.config
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.exe
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.pdb
+C:\Users\yixia\Downloads\admin\admin\admin\admin\bin\Debug\Database2.mdf
+C:\Users\yixia\Downloads\admin\admin\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\yixia\Downloads\admin\admin\admin\admin\bin\Debug\admin.exe
+C:\Users\yixia\Downloads\admin\admin\admin\admin\bin\Debug\admin.pdb
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.Form1.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\admin.exe.config
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.exe
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.pdb
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\Database1.mdf
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\Database1_log.ldf
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\Database2.mdf
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\admin.exe
+C:\Users\yixia\Desktop\admin\admin\admin\admin\bin\Debug\admin.pdb
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.Form1.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\yixia\Desktop\admin\admin\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\yixia\Downloads\admin\admin\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\ASUS\Desktop\admin\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\bin\Debug\admin.exe.config
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.exe
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.pdb
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\bin\Debug\Database2.mdf
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\bin\Debug\admin.exe
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\bin\Debug\admin.pdb
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.Form1.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.Report.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\bin\Debug\QRCoder.dll
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.totpVerify.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.EmailRequest.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.ResetPassword.resources
+C:\Users\yixia\Downloads\admin (1)\admin\admin\admin\obj\Debug\admin.totpVerify2.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\admin.exe.config
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.exe
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.pdb
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\Database2.mdf
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\admin.exe
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\admin.pdb
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\CommsUtil.dll
+C:\Users\ASUS\Desktop\admini\admin\admin\bin\Debug\QRCoder.dll
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.EmailRequest.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.ResetPassword.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.totpVerify2.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.totpVerify.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.Report.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.Chat.resources
+C:\Users\ASUS\Desktop\admini\admin\admin\obj\Debug\admin.Schedule.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\bin\Debug\admin.exe.config
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.exe
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.pdb
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.EmailRequest.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.Schedule.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.Chat.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.ResetPassword.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.Threshold.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.totpVerify2.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.totpVerify.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.Report.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\yixia\Downloads\admin (2)\admin\admin\bin\Debug\Database2.mdf
+C:\Users\yixia\Downloads\admin (2)\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\yixia\Downloads\admin (2)\admin\admin\bin\Debug\admin.exe
+C:\Users\yixia\Downloads\admin (2)\admin\admin\bin\Debug\admin.pdb
+C:\Users\yixia\Downloads\admin (2)\admin\admin\bin\Debug\QRCoder.dll
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.AddBin.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.Bin.resources
+C:\Users\yixia\Downloads\admin (2)\admin\admin\obj\Debug\admin.UpdateDeleteBin.resources
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\admin.exe.config
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.exe
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.pdb
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\Database2.mdf
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\admin.exe
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\admin.pdb
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\QRCoder.dll
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.AddBin.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.EmailRequest.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.Bin.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.Schedule.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.Chat.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.ResetPassword.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.Threshold.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.totpVerify2.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.totpVerify.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.UpdateDeleteBin.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.Report.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\admin\admin\obj\Debug\admin.DeviceLog.resources
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\EPPlus.dll
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ASUS\Desktop\admin\admin\bin\Debug\EPPlus.xml
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\admin.exe.config
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.exe
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.pdb
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\Database2.mdf
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\Database2_log.ldf
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\admin.exe
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\admin.pdb
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\EPPlus.dll
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\QRCoder.dll
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\bin\Debug\EPPlus.xml
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.AddBin.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.AddUser.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.EmailRequest.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.formcomm.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.Bin.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.DeviceLog.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.Schedule.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.LoginForm.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.Chat.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.ResetPassword.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.SettingsForm.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.Threshold.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.totpVerify2.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.totpVerify.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.UpdateDeleteBin.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.UpdateDeleteUser.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.LogsForm.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.Report.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.UsersForm.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.MainForm.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nixon's Group\admin\admin\obj\Debug\admin.csproj.GenerateResource.Cache

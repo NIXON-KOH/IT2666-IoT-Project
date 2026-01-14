@@ -1,0 +1,42 @@
+﻿{
+  "English": {
+    "Home": "Home",
+    "Priority": "Priority",
+    "Chat": "Chat",
+    "Settings": "Settings",
+    "Report": "Report",
+    "Help": "Help",
+    "Logout": "Logout",
+    "LanguageChanged": "Language changed to: English"
+  },
+  "Chinese": {
+    "Home": "主页",
+    "Priority": "优先事项",
+    "Chat": "聊天",
+    "Settings": "设置",
+    "Report": "报告",
+    "Help": "帮助",
+    "Logout": "登出",
+    "LanguageChanged": "语言更改为：中文"
+  },
+  "Malay": {
+    "Home": "Laman Utama",
+    "Priority": "Keutamaan",
+    "Chat": "Sembang",
+    "Settings": "Tetapan",
+    "Report": "Laporan",
+    "Help": "Bantuan",
+    "Logout": "Log Keluar",
+    "LanguageChanged": "Bahasa ditukar kepada: Melayu"
+  },
+  "Tamil": {
+    "Home": "முகப்பு",
+    "Priority": "முக்கியம்",
+    "Chat": "அரட்டை",
+    "Settings": "அமைப்புகள்",
+    "Report": "அறிக்கை",
+    "Help": "உதவி",
+    "Logout": "வெளியேறு",
+    "LanguageChanged": "மொழி மாற்றப்பட்டது: தமிழ்"
+  }
+}
